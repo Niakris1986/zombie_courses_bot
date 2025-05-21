@@ -13,4 +13,7 @@ __pycache__/
 .idea/
 
 # Environment variables
-.env 
+.env
+
+# Configuration files
+src/config.py 
